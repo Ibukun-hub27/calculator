@@ -1,0 +1,53 @@
+body {
+	padding: 0;
+	height: 100px;
+	position: absolute;
+	width: 100px;
+	background-color: rgb(71, 124, 38);
+	text-align: center;
+
+}
+.container {
+	height: 480px;
+	width: 300px;
+	border-radius: 20px;
+	position: absolute;
+	text-align: center;
+
+}
+.pad {
+	height: 320px;
+	width: 270px;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+
+
+}
+& button {
+	position: relative;
+	height: 52px;
+	width: 52px;
+	margin: 5px;
+	border-radius: 100px;
+	cursor: pointer;
+	font-size: 1.2rem;
+	font-weight: bolder;
+	border: none;
+	background-color: white;
+
+}
+.display {
+	position: relative;
+	height: 60px;
+	width: 270px;
+	background-color: black;
+	border-radius: 20px;
+	align-items: right;
+	justify-content: right;
+	margin: 30px;
+	text-align: right;
+	font-size: 50px;
+
+
+}
