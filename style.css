@@ -3,7 +3,7 @@ body {
 	height: 100px;
 	position: absolute;
 	width: 100px;
-	background-color: rgb(71, 124, 38);
+	background-color: rgb(234, 242, 241);
 	text-align: center;
 
 }
@@ -34,14 +34,14 @@ body {
 	font-size: 1.2rem;
 	font-weight: bolder;
 	border: none;
-	background-color: white;
+	background-color: rgba(27, 28, 27, 0.666);
 
 }
 .display {
 	position: relative;
 	height: 60px;
 	width: 270px;
-	background-color: black;
+	background-color: rgb(73, 73, 73);
 	border-radius: 20px;
 	align-items: right;
 	justify-content: right;
